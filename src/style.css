@@ -1,0 +1,29 @@
+/* Applica a tutta la pagina */
+html::-webkit-scrollbar {
+  width: 10px; /* Larghezza della scrollbar */
+}
+
+html::-webkit-scrollbar-track {
+  background: #0e0e0e; /* Colore dello sfondo */
+}
+
+html::-webkit-scrollbar-thumb {
+  background-color: #ff6204; /* Colore della barra */
+  border-radius: 10px; /* Arrotonda gli angoli */
+}
+
+html::-webkit-scrollbar-thumb:hover {
+  background: #f58122; /* Colore quando si passa sopra */
+  cursor: pointer;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'CustomFont', sans-serif !important;
+}
+
+@font-face {
+  font-family: 'CustomFont'; /* Nome del font */
+  src: url('@/assets/font/CaramelVanilla.ttf') format('truetype'); /* Percorso del font */
+}
+
