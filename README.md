@@ -2,7 +2,7 @@
 ### Il progetto è stato sviluppato con:
 
 ![alt text](</readmeImages/w3_html5-icon.svg>) ![alt text](</readmeImages/w3_css-icon.svg>)</br>
-![alt text](</readmeImages/vue.svg) ![alt text](</readmeImages/laravel-icon.svg)
+<img src="/readmeImages/vuejs-icon.svg"> ![alt text](</readmeImages/vue.svg) ![alt text](</readmeImages/laravel-icon.svg)
 
 ### Breve descrizione del progetto: 
 Ordini personalizzati: Gli utenti possono sfogliare il menu, aggiungere piatti al carrello e completare un ordine con un'interfaccia user-friendly.
