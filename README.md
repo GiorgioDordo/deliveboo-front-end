@@ -8,7 +8,7 @@
 - Ordini personalizzati: Gli utenti possono sfogliare il menu, aggiungere piatti al carrello e completare un ordine con un'interfaccia user-friendly.
 - Checkout sicuro: Integrazione con Braintree per gestire i pagamenti online.
 - Email dinamiche: Notifiche automatiche per il cliente (conferma ordine) e per il ristoratore (nuovo ordine ricevuto).
-<a src="https://github.com/GiorgioDordo/deliveboo-back-end">Per il back-end andare a questo link</a>
+[ReadMe](https://github.com/GiorgioDordo/deliveboo-back-end) <a src="https://github.com/GiorgioDordo/deliveboo-back-end">Per il back-end andare a questo link</a>
 
 ![alt text](</readmeImages/home.png>)
 
