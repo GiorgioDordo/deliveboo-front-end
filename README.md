@@ -14,7 +14,7 @@
 ![alt text](</readmeImages/home.png>)
 
 ## FUNZIONALITÀ PRINCIPALI
-- Scelta delle categorie del ristorante <style font-size:30px;>
+- Scelta delle categorie del ristorante
 
 
 ![alt text](</readmeImages/categorie.gif>)
