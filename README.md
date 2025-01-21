@@ -16,12 +16,17 @@
 ## FUNZIONALITÀ PRINCIPALI
 - Scelta delle categorie del ristorante
 
+
 ![alt text](</readmeImages/categorie.gif>)
+
 
 - Aggiunta dei piatti al carrello
 
+
 ![alt text](</readmeImages/carrello.gif>)
 
+
 - Pagamento
+
 
 ![alt text](</readmeImages/pagamento.gif>)
