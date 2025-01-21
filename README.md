@@ -1,7 +1,7 @@
 # DELIVERBOO FRONT
 ### Il progetto è stato sviluppato con:
 
-<div style="max-width: 100vw; display:flex; justify-content: center">
+<div class="container">
 <img src="/readmeImages/w3_html5-icon.svg"> <img src="/readmeImages/w3_css-icon.svg">
 <img src="/readmeImages/vuejs-icon.svg"> <img src="/readmeImages/laravel-icon.svg">
 </div>
@@ -27,3 +27,11 @@
 - Pagamento
 
 ![alt text](</readmeImages/pagamento.gif>)
+
+<style>
+    .container {
+        max-width: 100vw; 
+        display:flex; 
+        justify-content: center;
+    }
+</style>
