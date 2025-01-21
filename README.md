@@ -30,7 +30,7 @@
 
 <style>
     .container {
-        max-width: 100vw; 
+        max-width: 1200px; 
         display:flex; 
         justify-content: center;
     }
