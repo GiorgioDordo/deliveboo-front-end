@@ -4,7 +4,7 @@
 <div style="display:flex; justify-content: space-between">
 <img src="/readmeImages/w3_html5-icon.svg"> <img src="/readmeImages/w3_css-icon.svg">
 <img src="/readmeImages/vuejs-icon.svg"> <img src="/readmeImages/laravel-icon.svg">
-</div><
+</div>
 
 ### Breve descrizione del progetto: 
 Ordini personalizzati: Gli utenti possono sfogliare il menu, aggiungere piatti al carrello e completare un ordine con un'interfaccia user-friendly.
