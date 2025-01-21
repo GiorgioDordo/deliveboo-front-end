@@ -2,7 +2,7 @@
 ### Il progetto è stato sviluppato con:
 
 <div style="display:flex; justify-content: space-between">
-![alt text](</readmeImages/w3_html5-icon.svg>) ![alt text](</readmeImages/w3_css-icon.svg>)
+<img src="/readmeImages/w3_html5-icon.svg"> <img src="/readmeImages/w3_css-icon.svg">
 <img src="/readmeImages/vuejs-icon.svg"> <img src="/readmeImages/laravel-icon.svg">
 </div><
 
